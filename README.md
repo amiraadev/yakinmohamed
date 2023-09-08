@@ -1,8 +1,10 @@
 ### Hi there, I am Amira 
 
-I am an experienced software engineer with over 5 years of expertise in web development.My proficiency spans both front-end technologies like React, Angular, and Typescript, as well as back-end technologies including Java and Node.js (TypeScript and JavaScript). 
-I have a strong motivation for integrating complex back-end systems seamlessly.My professional journey has taken me through various settings, including military operations and large corporate teams. I've had the privilege of collaborating with highly skilled developers and diverse teams in both military operations and large corporate settings. 
-These experiences have instilled in me a deep appreciation for the value of clean, maintainable code and effective communication in mission-critical scenarios.,
+I am an accomplished software engineer with over five years of expertise in web development. I earned my degree in software engineering from the Tunisian Military Academy in 2017, following a diploma in the preparatory cycle for mathematics and physics from the Faculty of Science at the University of Elmanar Tunis in 2014. My career has been marked by diverse roles during my service in the military, exposing me to a wide range of environments and responsibilities.
+
+My proficiency extends across both front-end technologies, such as React, Angular, and TypeScript, and back-end technologies, including Java and Node.js (TypeScript and JavaScript). I possess a strong drive for seamlessly integrating complex back-end systems. Throughout my journey, I've had the privilege of collaborating with highly skilled developers and diverse teams, both in military operations and within large corporate settings.
+
+These experiences have instilled in me a deep appreciation for the value of clean, maintainable code and the significance of effective communication, particularly in mission-critical scenarios.
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&theme=radical" />
