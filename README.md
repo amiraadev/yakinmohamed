@@ -25,7 +25,8 @@ These experiences have instilled in me a deep appreciation for the value of clea
 <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=kattni" />
 <br></br>
 <hr></hr>
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amiraallagui" />
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amiraallagui&theme=dark"
+    media="(prefers-color-scheme: dark)" />
 
 
 
