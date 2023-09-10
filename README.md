@@ -2,17 +2,20 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I am an accomplished software engineer with over five years of expertise in web development from Tunisia
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Engineering diploma in Computer Science
+  
+- 📈 Design, Develop, Deploy
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- ❤️ My proficiency extends across both front-end technologies, such as React, Angular, and TypeScript, and back-end technologies, including Java, 
+      Node.js (TypeScript and JavaScript) and php
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+-  I possess a strong drive for seamlessly integrating complex back-end systems
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/amiraallagui/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
