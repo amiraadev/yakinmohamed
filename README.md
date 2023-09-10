@@ -25,7 +25,7 @@ I am an accomplished software engineer with over four years of expertise in web 
 
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya42bagde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="priya42bagde" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=priya42bagde&show_icons=true&locale=en&theme=chartreuse-dark" alt="priya42bagde" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priya42bagde&show_icons=true&locale=en&theme=chartreuse-dark" alt="priya42bagde" width="410" /></p>
 <br><br><br><br><br>
 <hr>
 
