@@ -20,11 +20,8 @@ These experiences have instilled in me a deep appreciation for the value of clea
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&theme=merko" />
-<br></br>
-<hr></hr>
-
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact&theme=merko" />
-
+#trophies
 <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=kattni" />
 <br></br>
 <hr></hr>
