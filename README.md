@@ -15,7 +15,7 @@ I am an accomplished software engineer with over four years of expertise in web 
 
 -  I possess a strong drive for seamlessly integrating complex back-end systems
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/amiraallagui/issues)
+- 💬 Ask me about anything [here](https://github.com/amiraallagui/amiraallagui/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -24,18 +24,18 @@ I am an accomplished software engineer with over four years of expertise in web 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&show_icons=true&theme=merko" media="(prefers-color-scheme: dark)" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact&theme=merko&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&include_all_commits=true&show_icons=true&theme=merko" media="(prefers-color-scheme: dark)" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=dark"
+<a href="https://github.com/amiraallagui/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amiraallagui&repo=github-readme-stats&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&show_icons=true&theme=dark"
+<a href="https://github.com/amiraallagui/amiraallagui.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amiraallagui&repo=anuraghazra.github.io&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)" />
 </a>
 
