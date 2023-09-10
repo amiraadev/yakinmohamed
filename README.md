@@ -2,7 +2,7 @@
 
 <br />
 
-I am an accomplished software engineer with over five years of expertise in web development from Tunisia
+I am an accomplished software engineer with over four years of expertise in web development from Tunisia
 
 **About me**
 
@@ -31,10 +31,12 @@ I am an accomplished software engineer with over five years of expertise in web 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)" />
 </a>
 
 <br />
