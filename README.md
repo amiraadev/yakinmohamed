@@ -24,6 +24,43 @@ I am an accomplished software engineer with over four years of expertise in web 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya42bagde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="priya42bagde" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priya42bagde&show_icons=true&locale=en&theme=chartreuse-dark" alt="priya42bagde" width="410" /></p>
+<br><br><br><br><br>
+<hr>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=priya42bagde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=priya42bagde&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&include_all_commits=true&show_icons=true&theme=merko" media="(prefers-color-scheme: dark)" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
