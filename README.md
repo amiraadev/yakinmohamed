@@ -15,9 +15,11 @@ These experiences have instilled in me a deep appreciation for the value of clea
 <img align="left" width="10%" height="35px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" width="10%" height="35px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
 
 
 
