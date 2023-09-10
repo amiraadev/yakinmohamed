@@ -8,19 +8,19 @@ These experiences have instilled in me a deep appreciation for the value of clea
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 
 
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact&theme=merko" />
 
 <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=kattni" />
 <br></br>
