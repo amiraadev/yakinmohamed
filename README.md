@@ -7,7 +7,7 @@ My proficiency extends across both front-end technologies, such as React, Angula
 These experiences have instilled in me a deep appreciation for the value of clean, maintainable code and the significance of effective communication, particularly in mission-critical scenarios.
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact" />
 
 
