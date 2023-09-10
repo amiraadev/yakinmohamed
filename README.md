@@ -8,7 +8,7 @@ These experiences have instilled in me a deep appreciation for the value of clea
 
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&theme=radical" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact" />
 
 
 
