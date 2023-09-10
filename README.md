@@ -27,8 +27,15 @@ I am an accomplished software engineer with over four years of expertise in web 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraallagui&show_icons=true&include_all_commits=true&show_icons=true&theme=merko" media="(prefers-color-scheme: dark)" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraallagui&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+#### Github Trophies
 
+<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=kattni" />
+<br></br>
+<hr></hr>
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amiraallagui&theme=dark"
+    media="(prefers-color-scheme: dark)" />
+
+    
 
 <a href="https://github.com/amiraallagui/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amiraallagui&repo=github-readme-stats&show_icons=true&theme=dark"
