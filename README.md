@@ -37,7 +37,7 @@
 <br><br><br><br><br>
 <hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=priya42bagde&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amiraallagui&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
