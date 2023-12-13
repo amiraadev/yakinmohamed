@@ -1,6 +1,6 @@
 ### Hello and Welcome 👋, I'm Amira Allagui
 
-💼I am an accomplished software engineer with over four years of expertise in web development from Tunisia
+💼I am an accomplished software engineer with over four years of experience in web development from Tunisia
 
 **About me**
 
