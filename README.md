@@ -1,4 +1,4 @@
-### Hello and Welcome 👋, I'm Amira Allagui
+### Hello and Welcome 👋, I'm yakin
 
 💼I am an accomplished software engineer with over four years of experience in web development from Tunisia
 
